@@ -2,11 +2,11 @@
 
 Bash script which runs a python script with to download audio in wav and move the file to desired location in the file system
 
-**Instalation: **
+**Instalation:**
 
 https://github.com/jschuhmann47/youtubeToWav
 
 
-**Demo: **
+**Demo:**
 
 ![usage_demo](https://github.com/DoubiOD/yt_downloader_python/blob/main/demo.gif)
